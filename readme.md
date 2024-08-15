@@ -28,3 +28,9 @@ To run the program:
 ```bash
 python parse_log.py
 ```
+
+To test the program:
+
+```bash
+pytest -v
+```
